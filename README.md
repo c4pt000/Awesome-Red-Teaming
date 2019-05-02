@@ -1,3 +1,8 @@
+
+
+
+# *** (pulled fork here no changes 05-02-2019)
+
 # Awesome Red Teaming
 
 List of Awesome Red Team / Red Teaming Resources
